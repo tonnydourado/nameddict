@@ -21,3 +21,14 @@ and create your custom classes:
 Test = nameddict('Test', ['a', 'b', 'c'])
 test = Test(1, 2, c=3)
 ```
+
+Tests
+=========
+
+I also wrote some tests using konira. Just run:
+
+```
+konira
+```
+
+in the directory with both the source and the tests.
